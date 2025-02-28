@@ -1,2 +1,3 @@
 # mapping-chess!
-[demo](https://github.com/user-attachments/assets/a6b041cc-40e0-475c-adcf-2c0e1f377e5e)
+
+![demo](https://github.com/user-attachments/assets/68d94c86-0933-4ffc-ab3a-7183e3ee85b4)
